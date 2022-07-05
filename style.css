@@ -13,7 +13,7 @@ h1 {
     font-weight: 700;
     font-size: clamp(3rem, 4vw, 4rem);
     text-align: center;
-    padding: 0 3rem;
+    padding: 3rem 3rem 1rem 3rem;
 }
 
 h2 {
@@ -24,7 +24,7 @@ h2 {
 }
 
 p {
-    padding: 1em 4rem;
+    padding: 3rem 4rem;
     margin: 0 auto;
     font-size: clamp(2rem, 2vw, 3vw);
     text-align: center;
