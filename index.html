@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Head Counter</title>
+    <script defer src="/index.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+        <h1>HEAD COUNT:</h1>
+        <h2 id="count-el">0</h2>
+        <div class="buttons">
+            <button id="increment-btn" onclick="increment()">INCREMENT</button>
+            <button id="decrement-btn" onclick="decrement()">DECREMENT</button>
+            <button id="save-btn" onclick="save()">SAVE</button>
+            <button id="reset-btn" onclick="reset()">RESET</button>
+        </div>
+        <p id="save-el">TOTAL: 0</p>
+    </div>
+</body>
+</html>
