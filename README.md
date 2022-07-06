@@ -1,4 +1,5 @@
 # Head Count App
-A simple head count app. Planning to adapt this to a bigger inventory tracking app for my current workplace that uses an archaic manual hand-written method.
+A simple head count app. - https://nathan-kennedy.github.io/head-count/
 <br>
-https://nathan-kennedy.github.io/head-count/
+<br>
+Planning to adapt this to a bigger inventory tracking app for my current workplace that uses an archaic hand-written method for record keeping.
